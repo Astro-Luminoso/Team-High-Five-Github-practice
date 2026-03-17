@@ -1,6 +1,0 @@
-- 이름: 전용운
-- MBTI: INTP
-- 관심사: 코딩, 운동, 음악, 낮잠
-- Git Hub: https://github.com/JeonYongWoon
-- 이메일: oioipo22@gmail.com
-- 좋아하는것: 이거저거 다 좋아합니다.
