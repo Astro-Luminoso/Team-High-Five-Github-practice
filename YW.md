@@ -1,10 +1,10 @@
 
 ## 자기 소개
-- 이름: 황순남
-- MBTI: ENTP
+- 이름: 전용운
+- MBTI: INTP
 - 관심사: 3D, JavaScript, Python, 코딩
 - Git Hub: https://github.com/hwang67120-bit/
-- 이메일: hwang67120@gamil.com
+- 이메일: oioipo22@gmail.com
 
 ## 성격 
 - 줄거운거만 찿는 사람
